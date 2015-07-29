@@ -203,7 +203,7 @@ Installation
                                                                               
   If you want to remove **ScreenLocker** from your system.                         
   
-  Run the desintallation script: uninstall.sh as root:                         
+  Run the uninstallation script: uninstall.sh as root:                         
   
   ..
   
