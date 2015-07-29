@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=ScreenLocker
+GenericName=ScreenLocker
+Comment=ScreenLocker display various animations in fullscreen modus with optional password to quit and music file playing.
+Icon=/usr/share/ScreenLocker/Icon/ScreenLocker_icon.png
+Exec=python2 /usr/local/bin/ScreenLocker.py
+Terminal=false
+StartupNotify=true
+Categories=Application;Utility;
